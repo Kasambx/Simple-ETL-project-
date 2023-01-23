@@ -1,6 +1,6 @@
 # Contributing to Simple ETL Project
 
-We welcome contributions to the Python Auto Scraper project! 
+We welcome contributions to a Simple ETL project! 
 
 ## Reporting Bugs
 
