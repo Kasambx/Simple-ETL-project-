@@ -15,7 +15,7 @@ Extract, Transform and Load it's the process that allows to move data from multi
 
 
 # Installation Steps.
-1.Clone the repository 
-2.Create a virtual environment called env
-3.pip install jupyterlab
-4.Then, you can run your code with jupyter notebook
+- Clone the repository 
+- Create a virtual environment called env
+- pip install jupyterlab
+- Then, you can run your code with jupyter notebook
